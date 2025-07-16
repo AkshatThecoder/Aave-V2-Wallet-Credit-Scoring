@@ -2,7 +2,7 @@
 
 ## 🎯 Score Distribution
 
-![Score Histogram](/Users/akshatpeter/Downloads/credit-scoring-aave/score_distribution.png)
+![Score Histogram](score_distribution.png)
 
 | Score Range | Wallet Count |
 |-------------|--------------|
