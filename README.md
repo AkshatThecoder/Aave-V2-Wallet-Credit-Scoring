@@ -96,4 +96,4 @@ credit-scoring-aave/
 ---
 
 ## 🔍 Analysis
-See [analysis.md] for distribution plots and behavioral insights.
+See `[analysis.md]` for distribution plots and behavioral insights.
