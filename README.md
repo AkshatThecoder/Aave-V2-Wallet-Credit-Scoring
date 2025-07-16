@@ -25,6 +25,7 @@ These features were normalized and combined using a weighted formula to generate
 
 ## 📁 Repository Structure
 
+```
 credit-scoring-aave/
 ├── data/
 │ └── transactions.json # Input data file (raw user-level transactions)
@@ -35,6 +36,7 @@ credit-scoring-aave/
 ├── README.md
 ├── analysis.md
 └── score_distribution.png # Score histogram plot
+```
 
 ---
 
