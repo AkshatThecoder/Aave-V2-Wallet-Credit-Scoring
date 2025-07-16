@@ -27,7 +27,7 @@ These features were normalized and combined using a weighted formula to generate
 
 ```
 credit-scoring-aave/
-├── data/
+├── data/ (if not present then create one)
 │ └── transactions.json # Input data file (raw user-level transactions)
 ├── src/
 │ ├── features.py # Feature engineering logic
@@ -72,7 +72,7 @@ credit-scoring-aave/
 `git clone <repo_url> cd credit-scoring-aave pip install -r requirements.txt`
 
 ### 2. Prepare Data
-- Download `transactions.json` (~87MB) into `data/` from:
+- Download `transactions.json` (~87MB) into `data/` (if not present then create one) from:
 [Google Drive Link](https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing)
 
 
