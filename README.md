@@ -114,4 +114,4 @@ This project also includes a Streamlit web application for an interactive experi
 ---
 
 ## 🔍 Analysis
-See [analysis.md] for distribution plots and behavioral insights.
+See `[analysis.md]` for distribution plots and behavioral insights.
